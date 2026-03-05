@@ -10,7 +10,7 @@ Most of them are active at the time of the repository's creation, but they also 
 
 | Logo            | Name             |     Link        | Author     |  Last activity year     |  Social Media | 
 |:------------------:|------------------|-------------------------|-------------|-------------|-------------|
-| ![Rae Baker: Deep Dive](images/Rae_Baker_Deep Dive.webp) |Rae Baker: Deep Dive | https://www.raebaker.net/ | Rae Baker | 2026 | [Linkedin](https://www.linkedin.com/in/raebakerosint/) | 
+| ![Rae Baker: Deep Dive](images/Rae_Baker_Deep_Dive.webp) |Rae Baker: Deep Dive | https://www.raebaker.net/ | Rae Baker | 2026 | [Linkedin](https://www.linkedin.com/in/raebakerosint/) | 
 | ![Indicator Media](images/Indicator_Media.jpeg) |Indicator Media | https://indicator.media/ | Craig Silverman, Alexios Mantzarlis | 2026 | [Linkedin](https://www.linkedin.com/company/indicatormedia/) | 
 | ![The OSINT Newsletter](images/The_OSINT_Newsletter.jpeg) |The OSINT Newsletter | https://osintnewsletter.com/ | Jake Creps | 2025 | [Linkedin](https://www.linkedin.com/company/the-osint-newsletter/posts/?feedView=all) | 
 | ![OSINT Jobs The Weekly Newsletter](images/OSINT_Jobs_The_Weekly_Newsletter.png) |OSINT Jobs The Weekly Newsletter | https://www.osintnewsletter.osint-jobs.com/ |  | 2025 | [Linkedin](https://www.linkedin.com/company/osint-jobs/) | 
