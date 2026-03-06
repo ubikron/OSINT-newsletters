@@ -31,7 +31,7 @@ Most of them are active at the time of the repository's creation, but they also 
 | ![Eurovision News Spotlight Fact-Checking & OSINT Network](images/Eurovision_News_Spotlight_Fact_Checking_OSINT_Network.jpeg) |Eurovision News Spotlight Fact-Checking & OSINT Network | https://spotlight.ebu.ch/ | Derek Bowler | 2026 | [Linkedin](https://www.linkedin.com/showcase/eurovisionnews-spotlight/) | 
 | ![Project OSINT](images/Project_OSINT.webp) |Project OSINT | https://substack.com/@projectosint |  | 2026 |  | 
 | ![Sherpa Intelligence](images/sherpa_intelligence.jpg) | Sherpa Intelligence | https://substack.com/@sherpaintelligence | Tracy Z. Maleeff | 2026 | [Linkedin](https://www.linkedin.com/company/sherpa-intelligence/) | 
-
+| ![BurriedSignals](images/burriedsignals.webp) |BurriedSignals | https://buriedsignals.substack.com/ | Tom Vaillant | 2025 |  | 
 
 
 
