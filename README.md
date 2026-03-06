@@ -30,6 +30,9 @@ Most of them are active at the time of the repository's creation, but they also 
 | ![OSINT Community](images/OSINT_Community.webp) |OSINT Community | https://osintcommunity.substack.com/ |  | 2026 | [Linkedin](https://www.linkedin.com/company/artoriastech/) | 
 | ![Eurovision News Spotlight Fact-Checking & OSINT Network](images/Eurovision_News_Spotlight_Fact_Checking_OSINT_Network.jpeg) |Eurovision News Spotlight Fact-Checking & OSINT Network | https://spotlight.ebu.ch/ | Derek Bowler | 2026 | [Linkedin](https://www.linkedin.com/showcase/eurovisionnews-spotlight/) | 
 | ![Project OSINT](images/Project_OSINT.webp) |Project OSINT | https://substack.com/@projectosint |  | 2026 |  | 
+| ![Sherpa Intelligence](images/sherpa_intelligence.jpg) | Sherpa Intelligence | https://substack.com/@sherpaintelligence | Tracy Z. Maleeff | 2026 | [Linkedin](https://www.linkedin.com/company/sherpa-intelligence/) | 
+
+
 
 
 If you are the author of an OSINT newsletter, feel free to request that it be added to this repository!
