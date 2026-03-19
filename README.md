@@ -34,6 +34,9 @@ Most of them are active at the time of the repository's creation, but they also 
 | ![BurriedSignals](images/burriedsignals.webp) |BurriedSignals | https://buriedsignals.substack.com/ | Tom Vaillant | 2025 |  | 
 | ![Alicja Pawłowska](images/Alicja_Pawłowska.avif) | Alicja's OSINT Newsletter | https://www.alicjapawlowska.com/| Alicja Pawłowska | 2026 | [Linkedin](https://www.linkedin.com/in/alicjap/) | 
 | ![Project OSINT](images/project_osint.webp) | Project OSINT | https://projectosint.com/ | Maria Cattini | 2026 | | 
+| ![Open Journalism](images/open_journalism.jpeg) | Open Journalism | https://openjournalism.news/ | Scott Klein | 2026 | [Linkedin](https://www.linkedin.com/in/kleinmatic/) | 
+
+
 
 
 
